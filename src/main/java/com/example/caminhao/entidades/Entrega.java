@@ -70,7 +70,7 @@ public class Entrega {
 
 	}
 
-	// daki pra baixo é os getters e os setters
+
 
 	public Entrega(Caminhao caminhao, Motorista motorista) {
 		super();
